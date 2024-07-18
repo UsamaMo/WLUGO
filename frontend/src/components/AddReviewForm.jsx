@@ -62,9 +62,9 @@ const AddReviewForm = () => {
 
 
 
-          <a class=" text-sm text-center bg-blue-600 text-white p-2 rounded font-medium">
+          <Link to='/course'><a class=" text-sm text-center bg-blue-600 text-white p-2 rounded font-medium">
               Add Review
-          </a>
+          </a></Link>
         </form>
         
 
